@@ -1,0 +1,40 @@
+body {
+
+    font-family: Tahoma, Arial, sans-serif; 
+    color: #333;
+}
+table {
+    border-collapse: collapse;
+}
+
+img{
+    height: 30px;
+    width: auto;
+}
+
+h1 {
+    font-family: Georgia;
+
+}
+
+p {
+    font-size: 20px; 
+    margin-bottom: 0;
+}
+h4 {
+    font-size: 18px; 
+}
+ul, ol {
+    margin: 0;
+}
+table tr td {
+    padding: 5px;
+}
+table {
+	width: 100%;
+}
+
+img {
+	height: 30px;
+	width: auto;
+}
